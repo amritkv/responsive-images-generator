@@ -24,7 +24,6 @@
   "homepage": "https://github.com/felixrieseberg/responsive-images-generator#readme",
   "dependencies": {
     "debug": "^2.3.3",
-    "rename": "1.0.4",
     "sharp": "0.28.3"
   },
   "devDependencies": {
